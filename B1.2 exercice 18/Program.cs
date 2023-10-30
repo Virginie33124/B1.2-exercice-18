@@ -20,7 +20,7 @@ namespace B1._2_exercice_18
             double nb3 = double.Parse(Console.ReadLine());
 
             // Affichage du plus petit des trois
-            Console.WriteLine("Le plus petit nombre est : " + Math.Min(nb1, Math.Min(nb2, nb3)) + ".");
+            Console.WriteLine("Le plus petit nombre saisie est : " + Math.Min(nb1, Math.Min(nb2, nb3)) + ".");
             Console.ReadLine();
         }
     }
