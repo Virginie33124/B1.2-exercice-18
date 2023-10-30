@@ -10,7 +10,7 @@ namespace B1._2_exercice_18
     {
         static void Main(string[] args)
         {
-            // Saisie des 3 nombres
+            // Saisie des 3 nombres * esssai refus
          
             Console.WriteLine("Veuillez saisir le nombre 1 : ");
             double nb1 = double.Parse(Console.ReadLine());
